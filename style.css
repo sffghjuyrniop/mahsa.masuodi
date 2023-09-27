@@ -1,0 +1,18 @@
+body {
+	background-image: url("zz2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.media {
+	width: 89%;
+	height: 300px;
+	position: relative;
+	margin-top: 1430px;
+	margin-left: 70px;
+}
+.item {
+	margin-right: 10px;
+	width: 200px;
+	height: 200px;
+}
+
